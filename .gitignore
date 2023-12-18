@@ -1,0 +1,28 @@
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+*.env
+
+# IDE or editor-specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Application-specific files
+/slows_music/
+
+# System or temporary files
+.DS_Store
+Thumbs.db
